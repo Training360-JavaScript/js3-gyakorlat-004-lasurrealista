@@ -9,7 +9,7 @@ const checker = {
         mac: checkMac,
     },
     validate(text, type) {
-        return this.rules[type](text);
+       
     },
 };
 

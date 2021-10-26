@@ -3,4 +3,4 @@ const checkMac = (macAddress) => {
     return macAddress.match(reg) ? true : false;
 };
 
-export default checkMac;
+
